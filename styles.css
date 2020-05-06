@@ -1,0 +1,36 @@
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	border-color: grey;
+	border-width: 5px;
+	width: 5%;
+}
+.circular{
+	border-radius: 100%;
+}
+.index{
+	background-color: #F5F5DC;
+	font-family: monospace;
+}
+.ContactMe{
+	background-color: #DEB887;
+	font-family: cursive;
+}
+#heading{
+	color: #000080;
+}
+#heading3{
+	color: #000080;
+}
+#heading-3{
+	color: #000080;
+}
+#heading33{
+	color: #000080;
+}
+#heading1{
+	color: #800000;
+}
+#heading2{
+	color: #800000;
+}
